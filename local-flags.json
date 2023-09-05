@@ -1,0 +1,20 @@
+{
+  "flags": {
+    "test-flag": {
+      "clientSideAvailability": {
+          "usingEnvironmentId": true
+      },
+      "defaults": {
+          "offVariation": 0,
+          "onVariation": 0
+      },
+      "key": "test-flag",
+      "kind": "boolean",
+      "name": "test-flag",
+      "on": true,
+      "variations": [
+          true
+      ]
+    }
+  }
+}
